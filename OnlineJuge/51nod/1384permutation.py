@@ -3,7 +3,6 @@ from itertools import permutations
 print list(permutations('12345'))
 '''
 
-
 def permutation(s):
     ql = []
     if len(s)<2:
