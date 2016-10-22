@@ -15,25 +15,59 @@ Output
 '''
 
 def readline():
-    getcircle = []
-    gettriangle = [[],[],[]]
+    triangle = [[],[],[]]
     getcircle = raw_input().split()
-    gettriangle[0] = raw_input().split()
-    gettriangle[1] = raw_input().split()
-    gettriangle[2] = raw_input().split()
-    #print getcircle
-    #print gettriangle
-    return getcircle,gettriangle
+    circle = [int(getcircle[i]) for i in range(3)]
+    for i in range(3):
+        gettriangle = raw_input().split()
+        triangle[i] = [int(gettriangle[x]) for x in range(2)] 
+    #print circle
+    #print triangle
+    return circle,triangle
 
-def guess(circle, tri):
-    return int((float(tri[0]) - float(circle[0]))**2 + (float(tri[1]) - float(circle[1]))**2 - float(circle[2])**2)
+'''
+判断:三角是否在圆内
+(x-x0)^2 + (y-y0)^2 = r^2
+'''
+def c_point(circle, point):
+    res =  (point[0]-circle[0])**2 + (point[1]-circle[1])**2 - circle[2]**2
+    if res > 0:return 1
+    elif res <0:return -1
+    else:return 0
+
+'''
+相交条件:
+1:OAB/OBA同为锐角
+2:圆心O到直线AB距离小于R
+两点直线:(x2 - x1)y - x(y2 - y1) - x2y1 + x1y2 = 0
+(ax+by+c)^2<r^2*(a^2+b^2)
+勾股定理:AB^2 > |OA^2 - OB^2|
+(x2 - x1)^2 + (y2 - y1)^2 > |(x - x1)^2 + (y - y1)^2 - (x - x2)^2 - (y - y2)^2|
+(x2 - x1)^2 + (y2 - y1)^2 > |x1^2 + y1^2 - x2^2 - y2^2 + 2x(x2 - x1) + 2y(y2 - y1)|
+'''
+def c_line(circle,p1,p2):
+    angle1 = (p2[0]-p1[0])**2+(p2[1]-p1[1])**2 
+    angle2 = abs(p1[0]**2-p2[0]**2+p1[1]**2-p2[1]**2+2*circle[0]*(p2[0]-p1[0])+2*circle[1]*(p2[1]-p1[1]))
+    dist1 = ((p2[0]-p1[0])*circle[1]-circle[0]*(p2[1]-p1[1])-p2[0]*p1[1]+p1[0]*p2[1])**2 
+    dist2 = circle[2]**2*((p2[0]-p1[0])**2+(p2[1]-p1[1])**2)
+    return angle1 >= angle2 and dist1 <= dist2
 
 def cross(circle, triangle):
     result = [0,0,0]
     for i in range(3):
-        result[i] = guess(circle,triangle[i])
-        if not result[i]:return False
-    return abs(sum(result)) == sum([abs(i) for i in result])
+        result[i] = c_point(circle,triangle[i])
+        if not result[i]:
+            print "a"
+            return False
+    if sum(result) == -3:return True
+    if abs(sum(result)) <> sum([abs(i) for i in result]):
+        print "b"
+        return False
+    for i in range(3):
+        if c_line(circle,triangle[(i+1)%3],triangle[(i+2)%3]):
+            print "c"
+            return False
+    return True
     
 number = int(raw_input())
 for i in range(number):
