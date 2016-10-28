@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-#2016/10/21
+#2016/10/28
 
 m, r = (int(i) for i in raw_input().split())
 a = [(i+1)**2 % m for i in range(m-1)]
