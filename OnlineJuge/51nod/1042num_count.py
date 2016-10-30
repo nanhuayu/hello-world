@@ -1,5 +1,7 @@
-#
+# -*- coding: utf-8 -*-
 #20161029
+#输入两个数0<a<=b<=1000000
+#从a到b计算0-9数字各出现多少次
 
 a,b = (int(i) for i in raw_input().split())
 
@@ -17,8 +19,8 @@ def num_count(num):
     return count
 
 count_a,count_b = num_count(a-1),num_count(b)
-print count_a
-print count_b
+#print count_a
+#print count_b
 
 for i in range(10):
     print count_b[i]-count_a[i]
