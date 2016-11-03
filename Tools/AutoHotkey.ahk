@@ -1,25 +1,26 @@
 send, #d
-sleep, 100
-
-;~ IfWinExist, ahk_exe Foxmail.exe
-;~ {
-;~ WinActivate, ahk_exe Foxmail.exe
-;~ }
-;~ else
-;~ {
-;~ run, D:\Foxmail 7.2\Foxmail.exe
 ;~ sleep, 100
 
+Loop
+{
+	If WinExist("ahk_exe Foxmail.exe")
+		break
+	run, D:\Foxmail 7.2\Foxmail.exe
+	Sleep, 500
+}
+
 ;~ WinWait, ahk_exe Foxmail.exe
-;~ WinActivate 
-;~ }
+;~ WinActivate, ahk_exe Foxmail.exe
+;~ Sleep, 100
 
-run, D:\Foxmail 7.2\Foxmail.exe
-sleep, 100
-
-WinWait, ahk_exe Foxmail.exe
-WinActivate, ahk_exe Foxmail.exe
-Sleep, 100
+Loop
+{
+	If WinActive("ahk_exe Foxmail.exe")
+		break
+	WinActivate, ahk_exe Foxmail.exe
+	Sleep, 100
+}
+Sleep, 200
 
 ;~ WinActivate, ahk_exe Foxmail.exe
 ;~ WinGetPos, X, Y, Width, Height, A
@@ -53,5 +54,8 @@ sleep, 50
 Send, {ALTDOWN}s{ALTUP}
 sleep, 50
 
-;~ WinActivate, ahk_exe Foxmail.exe
-send, !{F4}
+If WinActive("ahk_exe Foxmail.exe")
+{
+	;~ WinClose, ahk_exe Foxmail.exe
+	send, !{F4}
+}
