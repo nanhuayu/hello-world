@@ -1,4 +1,4 @@
-# Markdown使用教程
+# Markdown笔记
 
 ## 简单使用markdown
 * markdown标题使用#
