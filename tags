@@ -1,0 +1,343 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+007ReverseInteger.py	D:\Document\hello-world\OnlineJuge\leetcode\007ReverseInteger.py	1;"	kind:file	line:1
+007ReverseInteger02.py	D:\Document\hello-world\OnlineJuge\leetcode\007ReverseInteger02.py	1;"	kind:file	line:1
+008StringtoInteger.py	D:\Document\hello-world\OnlineJuge\leetcode\008StringtoInteger.py	1;"	kind:file	line:1
+009PalindromeNumber.py	D:\Document\hello-world\OnlineJuge\leetcode\009PalindromeNumber.py	1;"	kind:file	line:1
+009PalindromeNumber02.py	D:\Document\hello-world\OnlineJuge\leetcode\009PalindromeNumber02.py	1;"	kind:file	line:1
+013RomantoInteger.py	D:\Document\hello-world\OnlineJuge\leetcode\013RomantoInteger.py	1;"	kind:file	line:1
+014LongestCommonPrefix.py	D:\Document\hello-world\OnlineJuge\leetcode\014LongestCommonPrefix.py	1;"	kind:file	line:1
+036ValidSudoku.py	D:\Document\hello-world\OnlineJuge\leetcode\036ValidSudoku.py	1;"	kind:file	line:1
+084LargestRectangle.py	D:\Document\hello-world\OnlineJuge\leetcode\084LargestRectangle.py	1;"	kind:file	line:1
+1000.py	D:\Document\hello-world\OnlineJuge\POJ\1000.py	1;"	kind:file	line:1
+1001Exponentiation.py	D:\Document\hello-world\OnlineJuge\POJ\1001Exponentiation.py	1;"	kind:file	line:1
+1001Exponentiation_re.py	D:\Document\hello-world\OnlineJuge\POJ\1001Exponentiation_re.py	1;"	kind:file	line:1
+1003Hangover.py	D:\Document\hello-world\OnlineJuge\POJ\1003Hangover.py	1;"	kind:file	line:1
+1004.py	D:\Document\hello-world\OnlineJuge\POJ\1004.py	1;"	kind:file	line:1
+1010_235.py	D:\Document\hello-world\OnlineJuge\51nod\1010_235.py	1;"	kind:file	line:1
+1013_pow3.py	D:\Document\hello-world\OnlineJuge\51nod\1013_pow3.py	1;"	kind:file	line:1
+1014x2modp.py	D:\Document\hello-world\OnlineJuge\51nod\1014x2modp.py	1;"	kind:file	line:1
+1030base36.py	D:\Document\hello-world\OnlineJuge\51nod\1030base36.py	1;"	kind:file	line:1
+1030base36_ac.py	D:\Document\hello-world\OnlineJuge\51nod\1030base36_ac.py	1;"	kind:file	line:1
+1042num_count.py	D:\Document\hello-world\OnlineJuge\51nod\1042num_count.py	1;"	kind:file	line:1
+1094sumk.py	D:\Document\hello-world\OnlineJuge\51nod\1094sumk.py	1;"	kind:file	line:1
+1094sumk_1.py	D:\Document\hello-world\OnlineJuge\51nod\1094sumk_1.py	1;"	kind:file	line:1
+1095Anigram.py	D:\Document\hello-world\OnlineJuge\51nod\1095Anigram.py	1;"	kind:file	line:1
+1124factorial.py	D:\Document\hello-world\OnlineJuge\51nod\1124factorial.py	1;"	kind:file	line:1
+1242fib.py	D:\Document\hello-world\OnlineJuge\51nod\1242fib.py	1;"	kind:file	line:1
+1242fib_div_ac.py	D:\Document\hello-world\OnlineJuge\51nod\1242fib_div_ac.py	1;"	kind:file	line:1
+1265plane.py	D:\Document\hello-world\OnlineJuge\51nod\1265plane.py	1;"	kind:file	line:1
+1298cross.py	D:\Document\hello-world\OnlineJuge\51nod\1298cross.py	1;"	kind:file	line:1
+1298cross_1.py	D:\Document\hello-world\OnlineJuge\51nod\1298cross_1.py	1;"	kind:file	line:1
+1384permutation.py	D:\Document\hello-world\OnlineJuge\51nod\1384permutation.py	1;"	kind:file	line:1
+2048.py	D:\Document\hello-world\Python\PythonApp\2048.py	1;"	kind:file	line:1
+227BasicCalculatorII.py	D:\Document\hello-world\OnlineJuge\leetcode\227BasicCalculatorII.py	1;"	kind:file	line:1
+BeautifulSoup	D:\Document\hello-world\Python\WebCrawler\icibasentence\icibasentence.py	/^from bs4 import BeautifulSoup$/;"	kind:namespace	line:9
+BeautifulSoup	D:\Document\hello-world\Python\WebCrawler\readforum\emui.py	/^from bs4 import BeautifulSoup$/;"	kind:namespace	line:7
+BeautifulSoup	D:\Document\hello-world\Python\WebCrawler\readforum\gfan.py	/^from bs4 import BeautifulSoup$/;"	kind:namespace	line:7
+BeautifulSoup	D:\Document\hello-world\Python\WebCrawler\readforum\tieba.py	/^from bs4 import BeautifulSoup$/;"	kind:namespace	line:7
+BeautifulSoup	D:\Document\hello-world\Python\WebCrawler\soup_test.py	/^from bs4 import BeautifulSoup$/;"	kind:namespace	line:4
+DIM	D:\Document\hello-world\Python\MathPic\MathPic.py	/^DIM = 1024    $/;"	kind:variable	line:5
+GameField	D:\Document\hello-world\Python\PythonApp\2048.py	/^class GameField(object):$/;"	kind:class	line:23
+HashTable	D:\Document\hello-world\Python\Algorithm\search.py	/^class HashTable:$/;"	kind:class	line:35
+Header	D:\Document\hello-world\Python\PythonApp\mail_ssl.py	/^from email.header import Header$/;"	kind:namespace	line:6
+Header	D:\Document\hello-world\Python\PythonApp\mail_tls.py	/^from email.header import Header$/;"	kind:namespace	line:6
+Image	D:\Document\hello-world\Python\MathPic\MathPic.py	/^from PIL import Image$/;"	kind:namespace	line:1
+KEY	D:\Document\hello-world\Python\PythonApp\dict_ici.py	/^KEY = 'E0F0D336AF47D3797C68372A869BDBC5'$/;"	kind:variable	line:17
+MIMEText	D:\Document\hello-world\Python\PythonApp\mail_ssl.py	/^from email.mime.text import MIMEText$/;"	kind:namespace	line:5
+MIMEText	D:\Document\hello-world\Python\PythonApp\mail_tls.py	/^from email.mime.text import MIMEText$/;"	kind:namespace	line:5
+MOD	D:\Document\hello-world\OnlineJuge\51nod\1242fib.py	/^MOD = 1000000009$/;"	kind:variable	line:1
+MOD	D:\Document\hello-world\OnlineJuge\51nod\1242fib_div_ac.py	/^MOD = 1000000009$/;"	kind:variable	line:7
+MathPic.py	D:\Document\hello-world\Python\MathPic\MathPic.py	1;"	kind:file	line:1
+Solution	D:\Document\hello-world\OnlineJuge\leetcode\007ReverseInteger.py	/^class Solution(object):$/;"	kind:class	line:1
+Solution	D:\Document\hello-world\OnlineJuge\leetcode\007ReverseInteger02.py	/^class Solution(object):$/;"	kind:class	line:1
+Solution	D:\Document\hello-world\OnlineJuge\leetcode\008StringtoInteger.py	/^class Solution(object):$/;"	kind:class	line:1
+Solution	D:\Document\hello-world\OnlineJuge\leetcode\009PalindromeNumber.py	/^class Solution(object):$/;"	kind:class	line:1
+Solution	D:\Document\hello-world\OnlineJuge\leetcode\009PalindromeNumber02.py	/^class Solution(object):$/;"	kind:class	line:1
+Solution	D:\Document\hello-world\OnlineJuge\leetcode\013RomantoInteger.py	/^class Solution(object):$/;"	kind:class	line:1
+Solution	D:\Document\hello-world\OnlineJuge\leetcode\014LongestCommonPrefix.py	/^class Solution(object):$/;"	kind:class	line:1
+Solution	D:\Document\hello-world\OnlineJuge\leetcode\036ValidSudoku.py	/^class Solution(object):$/;"	kind:class	line:1
+Solution	D:\Document\hello-world\OnlineJuge\leetcode\084LargestRectangle.py	/^class Solution(object):$/;"	kind:class	line:1
+Solution	D:\Document\hello-world\OnlineJuge\leetcode\227BasicCalculatorII.py	/^class Solution(object):$/;"	kind:class	line:3
+T	D:\Document\hello-world\OnlineJuge\51nod\1265plane.py	/^T = int(data[0])$/;"	kind:variable	line:23
+TAG	D:\Document\hello-world\Python\PythonApp\dict_ici.py	/^TAG = namedtuple('TAG', 'value color')$/;"	kind:variable	line:19
+TAG_DICT	D:\Document\hello-world\Python\PythonApp\dict_ici.py	/^TAG_DICT = {$/;"	kind:variable	line:20
+URL	D:\Document\hello-world\Python\PythonApp\dict_ici.py	/^URL = 'http:\/\/dict-co.iciba.com\/api\/dictionary.php'$/;"	kind:variable	line:18
+__getitem__	D:\Document\hello-world\Python\Algorithm\search.py	/^    def __getitem__(self, key):$/;"	kind:member	line:85
+__init__	D:\Document\hello-world\Python\Algorithm\search.py	/^    def __init__(self):$/;"	kind:member	line:36
+__init__	D:\Document\hello-world\Python\PythonApp\2048.py	/^    def __init__(self, height=4, width=4, win=2048):$/;"	kind:member	line:24
+__setitem__	D:\Document\hello-world\Python\Algorithm\search.py	/^    def __setitem__(self, key, data):$/;"	kind:member	line:88
+a	D:\Document\hello-world\OnlineJuge\51nod\1013_pow3.py	/^a = int(raw_input()) + 1$/;"	kind:variable	line:4
+a	D:\Document\hello-world\OnlineJuge\51nod\1014x2modp.py	/^a = [(i+1)**2 % m for i in range(m-1)]$/;"	kind:variable	line:5
+a	D:\Document\hello-world\OnlineJuge\51nod\1030base36.py	/^a = raw_input()$/;"	kind:variable	line:4
+a	D:\Document\hello-world\OnlineJuge\leetcode\014LongestCommonPrefix.py	/^a = ["123","12","124"]$/;"	kind:variable	line:20
+a	D:\Document\hello-world\Python\pychallenge.py	/^a = "".join([i if i.isalpha() for i in text])$/;"	kind:variable	line:17
+a_bin	D:\Document\hello-world\OnlineJuge\51nod\1013_pow3.py	/^a_bin = str(bin(a))[::-1][:-2]$/;"	kind:variable	line:7
+a_index	D:\Document\hello-world\OnlineJuge\51nod\1014x2modp.py	/^a_index = [str(i+1) for i in range(len(a)) if a[i] == r]$/;"	kind:variable	line:6
+a_len	D:\Document\hello-world\OnlineJuge\51nod\1030base36.py	/^a_len = len(a)$/;"	kind:variable	line:5
+a_list	D:\Document\hello-world\OnlineJuge\51nod\1094sumk.py	/^a_list = [int(raw_input()) for i in range(x)]$/;"	kind:variable	line:7
+a_list	D:\Document\hello-world\OnlineJuge\51nod\1094sumk_1.py	/^a_list = [int(raw_input()) for i in range(x)]$/;"	kind:variable	line:7
+actions	D:\Document\hello-world\Python\PythonApp\2048.py	/^actions = ['Up', 'Left', 'Down', 'Right', 'Restart', 'Exit']$/;"	kind:variable	line:8
+actions_dict	D:\Document\hello-world\Python\PythonApp\2048.py	/^actions_dict = dict(zip(letter_codes, actions * 2))$/;"	kind:variable	line:9
+and	D:\Document\hello-world\Python\PythonApp\2048.py	/^from random import randrange, choice # generate and place new tile$/;"	kind:namespace	line:4
+b	D:\Document\hello-world\OnlineJuge\leetcode\014LongestCommonPrefix.py	/^b = []$/;"	kind:variable	line:21
+b_list	D:\Document\hello-world\OnlineJuge\51nod\1094sumk_1.py	/^b_list = [0]$/;"	kind:variable	line:8
+binary_search	D:\Document\hello-world\Python\Algorithm\search.py	/^def binary_search(a_list, item):$/;"	kind:function	line:16
+birth	D:\Document\hello-world\OnlineJuge\test\probleme.py	/^def birth(cow):$/;"	kind:function	line:3
+blue	D:\Document\hello-world\Python\MathPic\MathPic.py	/^def blue(i, j):$/;"	kind:function	line:14
+c_line	D:\Document\hello-world\OnlineJuge\51nod\1298cross.py	/^def c_line(circle,p1,p2):$/;"	kind:function	line:48
+c_line	D:\Document\hello-world\OnlineJuge\51nod\1298cross_1.py	/^def c_line(r,p1,p2):$/;"	kind:function	line:39
+c_point	D:\Document\hello-world\OnlineJuge\51nod\1298cross.py	/^def c_point(circle, point):$/;"	kind:function	line:32
+c_point	D:\Document\hello-world\OnlineJuge\51nod\1298cross_1.py	/^def c_point(r, point):$/;"	kind:function	line:23
+calculate	D:\Document\hello-world\OnlineJuge\leetcode\227BasicCalculatorII.py	/^    def calculate(self, s):$/;"	kind:member	line:4
+card	D:\Document\hello-world\OnlineJuge\POJ\1003Hangover.py	/^card = [0]$/;"	kind:variable	line:3
+cast	D:\Document\hello-world\Python\PythonApp\2048.py	/^        def cast(string):$/;"	kind:function	line:94
+change	D:\Document\hello-world\Python\PythonApp\2048.py	/^            def change(i): # true if there'll be change in i-th tile$/;"	kind:function	line:132
+choice	D:\Document\hello-world\Python\PythonApp\2048.py	/^from random import randrange, choice # generate and place new tile$/;"	kind:namespace	line:4
+count	D:\Document\hello-world\Python\WebCrawler\youdaosentence\youdao_image.py	/^count = 0$/;"	kind:variable	line:13
+cow	D:\Document\hello-world\OnlineJuge\test\probleme.py	/^cow = [0,0,0,1]$/;"	kind:variable	line:1
+cross	D:\Document\hello-world\OnlineJuge\51nod\1298cross.py	/^def cross(circle, triangle):$/;"	kind:function	line:55
+curses	D:\Document\hello-world\Python\PythonApp\2048.py	/^import curses$/;"	kind:namespace	line:3
+data	D:\Document\hello-world\OnlineJuge\51nod\1265plane.py	/^data = sys.stdin.readline().split()$/;"	kind:variable	line:22
+defaultdict	D:\Document\hello-world\Python\PythonApp\2048.py	/^from collections import defaultdict$/;"	kind:namespace	line:5
+det	D:\Document\hello-world\OnlineJuge\51nod\1265plane.py	/^def det(a, b):$/;"	kind:function	line:13
+dict_ici.py	D:\Document\hello-world\Python\PythonApp\dict_ici.py	1;"	kind:file	line:1
+dot	D:\Document\hello-world\OnlineJuge\51nod\1265plane.py	/^def dot(a, b):$/;"	kind:function	line:10
+draw	D:\Document\hello-world\Python\PythonApp\2048.py	/^    def draw(self, screen):$/;"	kind:member	line:89
+draw_hor_separator	D:\Document\hello-world\Python\PythonApp\2048.py	/^        def draw_hor_separator():$/;"	kind:function	line:97
+draw_row	D:\Document\hello-world\Python\PythonApp\2048.py	/^        def draw_row(row):$/;"	kind:function	line:105
+email	D:\Document\hello-world\Python\WebCrawler\tieba_email.py	/^def email(html):$/;"	kind:function	line:19
+emails	D:\Document\hello-world\Python\WebCrawler\tieba_email.py	/^def emails(url):$/;"	kind:function	line:30
+emailurl	D:\Document\hello-world\Python\WebCrawler\tieba_email.py	/^emailurl = []$/;"	kind:variable	line:12
+emui.py	D:\Document\hello-world\Python\WebCrawler\readforum\emui.py	1;"	kind:file	line:1
+end	D:\Document\hello-world\Python\WebCrawler\tieba_email.py	/^    end = int(emails(urls))$/;"	kind:variable	line:41
+endpage	D:\Document\hello-world\Python\WebCrawler\tieba_email.py	/^endpage = ""$/;"	kind:variable	line:11
+every	D:\Document\hello-world\Python\WebCrawler\readforum\emui.py	/^def every(n):$/;"	kind:function	line:32
+every	D:\Document\hello-world\Python\WebCrawler\readforum\gfan.py	/^def every(n):$/;"	kind:function	line:32
+every	D:\Document\hello-world\Python\WebCrawler\readforum\tieba.py	/^def every(n):$/;"	kind:function	line:32
+everyday	D:\Document\hello-world\Python\WebCrawler\icibasentence\icibasentence.py	/^def everyday(n):$/;"	kind:function	line:41
+everyday	D:\Document\hello-world\Python\WebCrawler\youdaosentence\youdao_everydaysentence.py	/^def everyday(n):$/;"	kind:function	line:33
+exp3	D:\Document\hello-world\OnlineJuge\51nod\1013_pow3.py	/^exp3 = [3]$/;"	kind:variable	line:8
+f	D:\Document\hello-world\OnlineJuge\51nod\1030base36_ac.py	/^def f(a,b):$/;"	kind:function	line:9
+f	D:\Document\hello-world\Python\WebCrawler\tieba_email.py	/^f = open('url.txt',"a+")#a代表追加，如果没有该文件就创建$/;"	kind:variable	line:49
+f	D:\Document\hello-world\Python\WebCrawler\youdaosentence\youdao_image.py	/^f = file(r'youdaotemp.txt')$/;"	kind:variable	line:11
+fac_list	D:\Document\hello-world\OnlineJuge\51nod\1124factorial.py	/^fac_list = num_split(int(raw_input()))$/;"	kind:variable	line:36
+fib	D:\Document\hello-world\OnlineJuge\51nod\1242fib_div_ac.py	/^def fib(n):$/;"	kind:function	line:26
+game	D:\Document\hello-world\Python\PythonApp\2048.py	/^    def game():$/;"	kind:function	line:173
+generate	D:\Document\hello-world\Python\PythonApp\2048.py	/^from random import randrange, choice # generate and place new tile$/;"	kind:namespace	line:4
+get	D:\Document\hello-world\Python\Algorithm\search.py	/^    def get(self, key):$/;"	kind:member	line:69
+get_hash	D:\Document\hello-world\OnlineJuge\51nod\1095Anigram.py	/^def get_hash(w):$/;"	kind:function	line:4
+get_response	D:\Document\hello-world\Python\PythonApp\dict_ici.py	/^def get_response(words):$/;"	kind:function	line:32
+get_user_action	D:\Document\hello-world\Python\PythonApp\2048.py	/^def get_user_action(keyboard):    $/;"	kind:function	line:11
+getcircle	D:\Document\hello-world\OnlineJuge\51nod\1298cross_1.py	/^    getcircle = getline()$/;"	kind:variable	line:54
+getline	D:\Document\hello-world\OnlineJuge\51nod\1265plane.py	/^def getline():$/;"	kind:function	line:3
+getline	D:\Document\hello-world\OnlineJuge\51nod\1298cross_1.py	/^def getline():$/;"	kind:function	line:16
+getline	D:\Document\hello-world\OnlineJuge\POJ\1000.py	/^def getline(getnum):$/;"	kind:function	line:3
+getline	D:\Document\hello-world\OnlineJuge\POJ\1001Exponentiation.py	/^def getline(getnum,line):$/;"	kind:function	line:3
+getline	D:\Document\hello-world\OnlineJuge\POJ\1001Exponentiation_re.py	/^def getline(getnum):$/;"	kind:function	line:3
+getline	D:\Document\hello-world\OnlineJuge\POJ\1003Hangover.py	/^def getline(card):$/;"	kind:function	line:19
+getline	D:\Document\hello-world\OnlineJuge\POJ\1004.py	/^def getline(money):$/;"	kind:function	line:2
+getopt	D:\Document\hello-world\Python\PythonApp\dict_ici.py	/^import getopt$/;"	kind:namespace	line:7
+gettriangle	D:\Document\hello-world\OnlineJuge\51nod\1298cross_1.py	/^    gettriangle = [getline() for i in range(3)]$/;"	kind:variable	line:55
+gfan.py	D:\Document\hello-world\Python\WebCrawler\readforum\gfan.py	1;"	kind:file	line:1
+green	D:\Document\hello-world\Python\MathPic\MathPic.py	/^def green(i, j):$/;"	kind:function	line:11
+hang	D:\Document\hello-world\OnlineJuge\POJ\1003Hangover.py	/^hang = [0]$/;"	kind:variable	line:2
+hang_card	D:\Document\hello-world\OnlineJuge\POJ\1003Hangover.py	/^def hang_card(hang,card):$/;"	kind:function	line:5
+hash_function	D:\Document\hello-world\Python\Algorithm\search.py	/^    def hash_function(self, key, size):$/;"	kind:member	line:62
+headers	D:\Document\hello-world\Python\WebCrawler\icibasentence\icibasentence.py	/^headers = {'User-Agent':'Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/48.0.2564.97 Safari\/537.36'}$/;"	kind:variable	line:14
+headers	D:\Document\hello-world\Python\WebCrawler\readforum\emui.py	/^headers = {'User-Agent':'Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/48.0.2564.97 Safari\/537.36'}$/;"	kind:variable	line:13
+headers	D:\Document\hello-world\Python\WebCrawler\readforum\gfan.py	/^headers = {'User-Agent':'Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/48.0.2564.97 Safari\/537.36'}$/;"	kind:variable	line:13
+headers	D:\Document\hello-world\Python\WebCrawler\readforum\tieba.py	/^headers = {'User-Agent':'Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/48.0.2564.97 Safari\/537.36'}$/;"	kind:variable	line:13
+headers	D:\Document\hello-world\Python\WebCrawler\youdaosentence\youdao_everydaysentence.py	/^headers = {'User-Agent':'Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/48.0.2564.97 Safari\/537.36'}$/;"	kind:variable	line:13
+hist	D:\Document\hello-world\Python\pychallenge.py	/^def hist(i,h):$/;"	kind:function	line:10
+html	D:\Document\hello-world\Python\WebCrawler\tieba_email.py	/^        html = openhtml(urls %i)$/;"	kind:variable	line:44
+i	D:\Document\hello-world\Python\WebCrawler\tieba_email.py	/^i = 0$/;"	kind:variable	line:10
+icibasentence.py	D:\Document\hello-world\Python\WebCrawler\icibasentence\icibasentence.py	1;"	kind:file	line:1
+img	D:\Document\hello-world\Python\MathPic\MathPic.py	/^img = Image.new('RGB', (1024, 1024), "black")$/;"	kind:variable	line:17
+img	D:\Document\hello-world\Python\WebCrawler\youdaosentence\youdao_image.py	/^img = 0$/;"	kind:variable	line:14
+in_bisect	D:\Document\hello-world\OnlineJuge\51nod\1010_235.py	/^def in_bisect(oneword,t):$/;"	kind:function	line:4
+init	D:\Document\hello-world\Python\PythonApp\2048.py	/^    def init():$/;"	kind:function	line:159
+insertsort	D:\Document\hello-world\Python\Algorithm\insertsort.py	/^def insertsort(lists):$/;"	kind:function	line:1
+insertsort.py	D:\Document\hello-world\Python\Algorithm\insertsort.py	1;"	kind:file	line:1
+invert	D:\Document\hello-world\Python\PythonApp\2048.py	/^def invert(field):$/;"	kind:function	line:20
+isPalindrome	D:\Document\hello-world\OnlineJuge\leetcode\009PalindromeNumber.py	/^    def isPalindrome(self, x):$/;"	kind:member	line:2
+isPalindrome	D:\Document\hello-world\OnlineJuge\leetcode\009PalindromeNumber02.py	/^    def isPalindrome(self, x):$/;"	kind:member	line:2
+isValidSudoku	D:\Document\hello-world\OnlineJuge\leetcode\036ValidSudoku.py	/^    def isValidSudoku(self, board):$/;"	kind:member	line:2
+is_gameover	D:\Document\hello-world\Python\PythonApp\2048.py	/^    def is_gameover(self):$/;"	kind:member	line:86
+is_win	D:\Document\hello-world\Python\PythonApp\2048.py	/^    def is_win(self):$/;"	kind:member	line:83
+iscross	D:\Document\hello-world\OnlineJuge\51nod\1298cross_1.py	/^def iscross(r, triangle):$/;"	kind:function	line:46
+json	D:\Document\hello-world\Python\WebCrawler\youdaosentence\youdao_image.py	/^import json$/;"	kind:namespace	line:6
+jsonobj	D:\Document\hello-world\Python\WebCrawler\youdaosentence\youdao_image.py	/^jsonobj = json.load(f)$/;"	kind:variable	line:12
+largestRectangleArea	D:\Document\hello-world\OnlineJuge\leetcode\084LargestRectangle.py	/^    def largestRectangleArea(self, heights):$/;"	kind:member	line:2
+letter_codes	D:\Document\hello-world\Python\PythonApp\2048.py	/^letter_codes = [ord(ch) for ch in 'WASDRQwasdrq']$/;"	kind:variable	line:7
+listtest	D:\Document\hello-world\Python\Algorithm\mergesort.py	/^listtest = [1,24,35,78,9,2,35,63,6,7,43]$/;"	kind:variable	line:32
+logger	D:\Document\hello-world\Python\PythonApp\dict_ici.py	/^logger = logging.getLogger(__name__)$/;"	kind:variable	line:29
+logging	D:\Document\hello-world\Python\PythonApp\dict_ici.py	/^import logging$/;"	kind:namespace	line:8
+longestCommonPrefix	D:\Document\hello-world\OnlineJuge\leetcode\014LongestCommonPrefix.py	/^    def longestCommonPrefix(self, strs):$/;"	kind:member	line:2
+mail_host	D:\Document\hello-world\Python\PythonApp\mail_ssl.py	/^mail_host="smtp.xxx.com"  #设置服务器$/;"	kind:variable	line:9
+mail_host	D:\Document\hello-world\Python\PythonApp\mail_tls.py	/^mail_host="smtp-mail.xxx.com"  #设置服务器$/;"	kind:variable	line:9
+mail_pass	D:\Document\hello-world\Python\PythonApp\mail_ssl.py	/^mail_pass="password"   #口令 $/;"	kind:variable	line:12
+mail_pass	D:\Document\hello-world\Python\PythonApp\mail_tls.py	/^mail_pass="password"   #口令 $/;"	kind:variable	line:12
+mail_receiver	D:\Document\hello-world\Python\PythonApp\mail_ssl.py	/^mail_receiver="receiver@xxx.com"$/;"	kind:variable	line:11
+mail_receiver	D:\Document\hello-world\Python\PythonApp\mail_tls.py	/^mail_receiver="receiver@xxx.com"$/;"	kind:variable	line:11
+mail_sender	D:\Document\hello-world\Python\PythonApp\mail_ssl.py	/^mail_sender="sender@xxx.com"    #用户名$/;"	kind:variable	line:10
+mail_sender	D:\Document\hello-world\Python\PythonApp\mail_tls.py	/^mail_sender="sender@xxx.com"    #用户名$/;"	kind:variable	line:10
+mail_ssl.py	D:\Document\hello-world\Python\PythonApp\mail_ssl.py	1;"	kind:file	line:1
+mail_subject	D:\Document\hello-world\Python\PythonApp\mail_ssl.py	/^mail_subject = 'Hello, %s' %mail_receiver$/;"	kind:variable	line:13
+mail_subject	D:\Document\hello-world\Python\PythonApp\mail_tls.py	/^mail_subject = 'Hello, %s' %mail_receiver$/;"	kind:variable	line:13
+mail_tls.py	D:\Document\hello-world\Python\PythonApp\mail_tls.py	1;"	kind:file	line:1
+main	D:\Document\hello-world\Python\PythonApp\2048.py	/^def main(stdscr):$/;"	kind:function	line:158
+main	D:\Document\hello-world\Python\PythonApp\dict_ici.py	/^def main():$/;"	kind:function	line:59
+merge	D:\Document\hello-world\Python\Algorithm\mergesort.py	/^def merge(left, right):$/;"	kind:function	line:14
+merge	D:\Document\hello-world\Python\PythonApp\2048.py	/^            def merge(row):$/;"	kind:function	line:47
+mergesort	D:\Document\hello-world\Python\Algorithm\mergesort.py	/^def mergesort(m):$/;"	kind:function	line:1
+mergesort.py	D:\Document\hello-world\Python\Algorithm\mergesort.py	1;"	kind:file	line:1
+message	D:\Document\hello-world\Python\PythonApp\mail_ssl.py	/^message = MIMEText(mail_text, 'plain', 'utf-8')$/;"	kind:variable	line:20
+message	D:\Document\hello-world\Python\PythonApp\mail_tls.py	/^message = MIMEText(mail_text, 'plain', 'utf-8')$/;"	kind:variable	line:21
+minidom	D:\Document\hello-world\Python\PythonApp\dict_ici.py	/^from xml.dom import minidom$/;"	kind:namespace	line:9
+minus	D:\Document\hello-world\OnlineJuge\51nod\1265plane.py	/^def minus(a, b):$/;"	kind:function	line:7
+mm	D:\Document\hello-world\OnlineJuge\51nod\1242fib_div_ac.py	/^def mm(a, b):$/;"	kind:function	line:9
+move	D:\Document\hello-world\Python\PythonApp\2048.py	/^    def move(self, direction):$/;"	kind:member	line:40
+move_is_possible	D:\Document\hello-world\Python\PythonApp\2048.py	/^    def move_is_possible(self, direction):$/;"	kind:member	line:130
+move_row_left	D:\Document\hello-world\Python\PythonApp\2048.py	/^        def move_row_left(row):$/;"	kind:function	line:41
+mp	D:\Document\hello-world\OnlineJuge\51nod\1030base36_ac.py	/^mp={}$/;"	kind:variable	line:5
+mp	D:\Document\hello-world\OnlineJuge\51nod\1242fib_div_ac.py	/^def mp(p, n):$/;"	kind:function	line:17
+myAtoi	D:\Document\hello-world\OnlineJuge\leetcode\008StringtoInteger.py	/^    def myAtoi(self, str):$/;"	kind:member	line:2
+namedtuple	D:\Document\hello-world\Python\PythonApp\dict_ici.py	/^from collections import namedtuple$/;"	kind:namespace	line:10
+new	D:\Document\hello-world\Python\PythonApp\2048.py	/^from random import randrange, choice # generate and place new tile$/;"	kind:namespace	line:4
+not_game	D:\Document\hello-world\Python\PythonApp\2048.py	/^    def not_game(state):$/;"	kind:function	line:164
+num	D:\Document\hello-world\OnlineJuge\51nod\1010_235.py	/^num = int(raw_input())$/;"	kind:variable	line:23
+num	D:\Document\hello-world\OnlineJuge\POJ\1000.py	/^num = [0,0]$/;"	kind:variable	line:1
+num	D:\Document\hello-world\OnlineJuge\POJ\1001Exponentiation.py	/^num = [0,0]$/;"	kind:variable	line:1
+num	D:\Document\hello-world\OnlineJuge\POJ\1001Exponentiation_re.py	/^num = [0,0]$/;"	kind:variable	line:1
+num36	D:\Document\hello-world\OnlineJuge\51nod\1030base36.py	/^num36 = [ord(i) for i in a]$/;"	kind:variable	line:6
+num_count	D:\Document\hello-world\OnlineJuge\51nod\1042num_count.py	/^def num_count(num):$/;"	kind:function	line:8
+num_last	D:\Document\hello-world\OnlineJuge\51nod\1124factorial.py	/^def num_last(val, n):$/;"	kind:function	line:5
+num_list	D:\Document\hello-world\OnlineJuge\51nod\1010_235.py	/^num_list = [5**i*3**j*2**k for i in range(26) for j in range(38-int(i*1.46)) for k in range(60-int(i*2.32)-int(j*1.58))]$/;"	kind:variable	line:20
+num_n	D:\Document\hello-world\OnlineJuge\51nod\1010_235.py	/^    num_n = int(raw_input())$/;"	kind:variable	line:25
+num_split	D:\Document\hello-world\OnlineJuge\51nod\1124factorial.py	/^def num_split(num):$/;"	kind:function	line:21
+number	D:\Document\hello-world\OnlineJuge\51nod\1298cross.py	/^number = int(raw_input())$/;"	kind:variable	line:72
+number	D:\Document\hello-world\OnlineJuge\51nod\1298cross_1.py	/^number = int(raw_input())$/;"	kind:variable	line:52
+openhtml	D:\Document\hello-world\Python\WebCrawler\tieba_email.py	/^def openhtml(url):$/;"	kind:function	line:25
+os	D:\Document\hello-world\Python\WebCrawler\icibasentence\icibasentence.py	/^import os$/;"	kind:namespace	line:10
+os	D:\Document\hello-world\Python\WebCrawler\readforum\emui.py	/^import os$/;"	kind:namespace	line:9
+os	D:\Document\hello-world\Python\WebCrawler\readforum\gfan.py	/^import os$/;"	kind:namespace	line:9
+os	D:\Document\hello-world\Python\WebCrawler\readforum\tieba.py	/^import os$/;"	kind:namespace	line:9
+os	D:\Document\hello-world\Python\WebCrawler\youdaosentence\youdao_everydaysentence.py	/^import os$/;"	kind:namespace	line:9
+path	D:\Document\hello-world\Python\WebCrawler\youdaosentence\youdao_image.py	/^        path = r'%s.jpeg'%i['date']$/;"	kind:variable	line:21
+permutation	D:\Document\hello-world\OnlineJuge\51nod\1384permutation.py	/^def permutation(s):$/;"	kind:function	line:6
+pixels	D:\Document\hello-world\Python\MathPic\MathPic.py	/^pixels = img.load()$/;"	kind:variable	line:18
+place	D:\Document\hello-world\Python\PythonApp\2048.py	/^from random import randrange, choice # generate and place new tile$/;"	kind:namespace	line:4
+plane	D:\Document\hello-world\OnlineJuge\51nod\1265plane.py	/^def plane(a, b, c, d):$/;"	kind:function	line:16
+power	D:\Document\hello-world\OnlineJuge\test\power.py	/^def power(a, n):$/;"	kind:function	line:1
+power.py	D:\Document\hello-world\OnlineJuge\test\power.py	1;"	kind:file	line:1
+pownum	D:\Document\hello-world\OnlineJuge\POJ\1001Exponentiation.py	/^def pownum(num):$/;"	kind:function	line:10
+pownum	D:\Document\hello-world\OnlineJuge\POJ\1001Exponentiation_re.py	/^def pownum(num):$/;"	kind:function	line:13
+print_function	D:\Document\hello-world\Python\PythonApp\dict_ici.py	/^from __future__ import print_function, unicode_literals$/;"	kind:namespace	line:3
+probleme.py	D:\Document\hello-world\OnlineJuge\test\probleme.py	1;"	kind:file	line:1
+put	D:\Document\hello-world\Python\Algorithm\search.py	/^    def put(self, key, data):$/;"	kind:member	line:54
+put_data_in_slot	D:\Document\hello-world\Python\Algorithm\search.py	/^    def put_data_in_slot(self,key,data,slot):$/;"	kind:member	line:42
+pychallenge.py	D:\Document\hello-world\Python\pychallenge.py	1;"	kind:file	line:1
+ql	D:\Document\hello-world\OnlineJuge\51nod\1384permutation.py	/^ql = sorted(set(permutation(s)))$/;"	kind:variable	line:29
+r	D:\Document\hello-world\OnlineJuge\51nod\1013_pow3.py	/^r = 1$/;"	kind:variable	line:6
+randrange	D:\Document\hello-world\Python\PythonApp\2048.py	/^from random import randrange, choice # generate and place new tile$/;"	kind:namespace	line:4
+re	D:\Document\hello-world\OnlineJuge\leetcode\227BasicCalculatorII.py	/^import re$/;"	kind:namespace	line:1
+re	D:\Document\hello-world\Python\PythonApp\dict_ici.py	/^import re$/;"	kind:namespace	line:5
+re	D:\Document\hello-world\Python\WebCrawler\icibasentence\icibasentence.py	/^import re$/;"	kind:namespace	line:8
+re	D:\Document\hello-world\Python\WebCrawler\readforum\emui.py	/^import re$/;"	kind:namespace	line:8
+re	D:\Document\hello-world\Python\WebCrawler\readforum\gfan.py	/^import re$/;"	kind:namespace	line:8
+re	D:\Document\hello-world\Python\WebCrawler\readforum\tieba.py	/^import re$/;"	kind:namespace	line:8
+re	D:\Document\hello-world\Python\WebCrawler\tieba_email.py	/^import re$/;"	kind:namespace	line:7
+re	D:\Document\hello-world\Python\WebCrawler\youdaosentence\youdao_everydaysentence.py	/^import re$/;"	kind:namespace	line:8
+read_xml	D:\Document\hello-world\Python\PythonApp\dict_ici.py	/^def read_xml(xml):$/;"	kind:function	line:41
+readline	D:\Document\hello-world\OnlineJuge\51nod\1298cross.py	/^def readline():$/;"	kind:function	line:17
+red	D:\Document\hello-world\Python\MathPic\MathPic.py	/^def red(i, j):$/;"	kind:function	line:7
+rehash	D:\Document\hello-world\Python\Algorithm\search.py	/^    def rehash(self, old_hash, size):$/;"	kind:member	line:66
+res	D:\Document\hello-world\OnlineJuge\51nod\1094sumk.py	/^res = sum_k()$/;"	kind:variable	line:21
+res	D:\Document\hello-world\OnlineJuge\51nod\1124factorial.py	/^res = (res_list[1]*res_list[2]*res_list[3]*res_list[5]*res_list[6]*res_list[7]*res_list[8])%10$/;"	kind:variable	line:44
+res_list	D:\Document\hello-world\OnlineJuge\51nod\1124factorial.py	/^res_list = []$/;"	kind:variable	line:37
+reset	D:\Document\hello-world\Python\PythonApp\2048.py	/^    def reset(self):$/;"	kind:member	line:32
+reverse	D:\Document\hello-world\OnlineJuge\leetcode\007ReverseInteger.py	/^    def reverse(self, x):$/;"	kind:member	line:2
+reverse	D:\Document\hello-world\OnlineJuge\leetcode\007ReverseInteger02.py	/^    def reverse(self, x):$/;"	kind:member	line:2
+romanToInt	D:\Document\hello-world\OnlineJuge\leetcode\013RomantoInteger.py	/^    def romanToInt(self, s):$/;"	kind:member	line:2
+row_is_left_movable	D:\Document\hello-world\Python\PythonApp\2048.py	/^        def row_is_left_movable(row): $/;"	kind:function	line:131
+s	D:\Document\hello-world\OnlineJuge\51nod\1030base36_ac.py	/^s=raw_input()$/;"	kind:variable	line:8
+s	D:\Document\hello-world\OnlineJuge\51nod\1242fib.py	/^s = int(raw_input())$/;"	kind:variable	line:2
+s	D:\Document\hello-world\OnlineJuge\51nod\1384permutation.py	/^s = raw_input()$/;"	kind:variable	line:28
+s	D:\Document\hello-world\OnlineJuge\leetcode\007ReverseInteger02.py	/^s = Solution()$/;"	kind:variable	line:12
+s	D:\Document\hello-world\OnlineJuge\leetcode\008StringtoInteger.py	/^s = Solution()$/;"	kind:variable	line:42
+s	D:\Document\hello-world\OnlineJuge\leetcode\009PalindromeNumber.py	/^s = Solution()$/;"	kind:variable	line:22
+s	D:\Document\hello-world\OnlineJuge\leetcode\009PalindromeNumber02.py	/^s = Solution()$/;"	kind:variable	line:12
+s	D:\Document\hello-world\OnlineJuge\leetcode\013RomantoInteger.py	/^s = Solution()$/;"	kind:variable	line:22
+s	D:\Document\hello-world\OnlineJuge\leetcode\014LongestCommonPrefix.py	/^s = Solution()$/;"	kind:variable	line:19
+s	D:\Document\hello-world\OnlineJuge\leetcode\227BasicCalculatorII.py	/^s = "1+2*3"$/;"	kind:variable	line:56
+s1	D:\Document\hello-world\OnlineJuge\51nod\1030base36_ac.py	/^s1="0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"$/;"	kind:variable	line:4
+same_k	D:\Document\hello-world\OnlineJuge\51nod\1094sumk_1.py	/^def same_k():$/;"	kind:function	line:19
+savefile	D:\Document\hello-world\Python\WebCrawler\icibasentence\icibasentence.py	/^def savefile(fs, name):$/;"	kind:function	line:25
+savefile	D:\Document\hello-world\Python\WebCrawler\readforum\emui.py	/^def savefile(fs, name):$/;"	kind:function	line:22
+savefile	D:\Document\hello-world\Python\WebCrawler\readforum\gfan.py	/^def savefile(fs, name):$/;"	kind:function	line:22
+savefile	D:\Document\hello-world\Python\WebCrawler\readforum\tieba.py	/^def savefile(fs, name):$/;"	kind:function	line:22
+savefile	D:\Document\hello-world\Python\WebCrawler\youdaosentence\youdao_everydaysentence.py	/^def savefile(fs, name):$/;"	kind:function	line:23
+search.py	D:\Document\hello-world\Python\Algorithm\search.py	1;"	kind:file	line:1
+sequential_search	D:\Document\hello-world\Python\Algorithm\search.py	/^def sequential_search(a_list, item):$/;"	kind:function	line:1
+shellsort	D:\Document\hello-world\Python\Algorithm\shellsort.py	/^def shellsort(lists):$/;"	kind:function	line:1
+shellsort.py	D:\Document\hello-world\Python\Algorithm\shellsort.py	1;"	kind:file	line:1
+show	D:\Document\hello-world\Python\PythonApp\dict_ici.py	/^def show(node):$/;"	kind:function	line:46
+smtp	D:\Document\hello-world\Python\PythonApp\mail_ssl.py	/^    smtp = smtplib.SMTP_SSL() $/;"	kind:variable	line:26
+smtp	D:\Document\hello-world\Python\PythonApp\mail_tls.py	/^    smtp = smtplib.SMTP() $/;"	kind:variable	line:27
+smtplib	D:\Document\hello-world\Python\PythonApp\mail_ssl.py	/^import smtplib$/;"	kind:namespace	line:4
+smtplib	D:\Document\hello-world\Python\PythonApp\mail_tls.py	/^import smtplib$/;"	kind:namespace	line:4
+sol	D:\Document\hello-world\OnlineJuge\leetcode\084LargestRectangle.py	/^sol=Solution()$/;"	kind:variable	line:22
+soup	D:\Document\hello-world\Python\WebCrawler\soup_test.py	/^soup = BeautifulSoup(html_doc,'html.parser')$/;"	kind:variable	line:22
+soup_test.py	D:\Document\hello-world\Python\WebCrawler\soup_test.py	1;"	kind:file	line:1
+spawn	D:\Document\hello-world\Python\PythonApp\2048.py	/^    def spawn(self):$/;"	kind:member	line:125
+sum_k	D:\Document\hello-world\OnlineJuge\51nod\1094sumk.py	/^def sum_k():$/;"	kind:function	line:12
+sum_k	D:\Document\hello-world\OnlineJuge\51nod\1094sumk_1.py	/^def sum_k():$/;"	kind:function	line:13
+sys	D:\Document\hello-world\OnlineJuge\51nod\1265plane.py	/^import sys$/;"	kind:namespace	line:1
+sys	D:\Document\hello-world\Python\PythonApp\dict_ici.py	/^import sys$/;"	kind:namespace	line:6
+table	D:\Document\hello-world\Python\Algorithm\search.py	/^    table=HashTable();$/;"	kind:variable	line:93
+test	D:\Document\hello-world\OnlineJuge\POJ\1004.py	/^test = []$/;"	kind:variable	line:1
+test	D:\Document\hello-world\OnlineJuge\leetcode\227BasicCalculatorII.py	/^test = Solution()$/;"	kind:variable	line:55
+testSudoku	D:\Document\hello-world\OnlineJuge\leetcode\036ValidSudoku.py	/^        def testSudoku(boardlist):$/;"	kind:function	line:9
+test_list	D:\Document\hello-world\Python\Algorithm\search.py	/^test_list = [0, 1, 2, 8, 13, 17, 19, 32, 42,]$/;"	kind:variable	line:31
+test_list	D:\Document\hello-world\Python\Algorithm\search.py	/^test_list = [1, 2, 32, 8, 17, 19, 42, 13, 0]$/;"	kind:variable	line:11
+tieba.py	D:\Document\hello-world\Python\WebCrawler\readforum\tieba.py	1;"	kind:file	line:1
+tieba_email.py	D:\Document\hello-world\Python\WebCrawler\tieba_email.py	1;"	kind:file	line:1
+tighten	D:\Document\hello-world\Python\PythonApp\2048.py	/^            def tighten(row): # squeese non-zero elements together$/;"	kind:function	line:42
+tile	D:\Document\hello-world\Python\PythonApp\2048.py	/^from random import randrange, choice # generate and place new tile$/;"	kind:namespace	line:4
+transpose	D:\Document\hello-world\Python\PythonApp\2048.py	/^def transpose(field):$/;"	kind:function	line:17
+triangle	D:\Document\hello-world\OnlineJuge\51nod\1298cross_1.py	/^    triangle = [[gettriangle[i][j] - getcircle[j] for j in range(2)] for i in range(3)]$/;"	kind:variable	line:56
+unicode_literals	D:\Document\hello-world\Python\PythonApp\dict_ici.py	/^from __future__ import print_function, unicode_literals$/;"	kind:namespace	line:3
+url	D:\Document\hello-world\Python\WebCrawler\icibasentence\icibasentence.py	/^url = 'http:\/\/news.iciba.com\/dailysentence\/detail-%s.html'$/;"	kind:variable	line:13
+url	D:\Document\hello-world\Python\WebCrawler\readforum\emui.py	/^url = 'http:\/\/cn.ui.vmall.com\/thread-4473489-%s-1.html'$/;"	kind:variable	line:12
+url	D:\Document\hello-world\Python\WebCrawler\readforum\gfan.py	/^url = 'http:\/\/bbs.gfan.com\/android-7570276-%s-1.html'$/;"	kind:variable	line:12
+url_request	D:\Document\hello-world\Python\WebCrawler\icibasentence\icibasentence.py	/^def url_request(u, h):$/;"	kind:function	line:18
+url_request	D:\Document\hello-world\Python\WebCrawler\readforum\emui.py	/^def url_request(u, h):$/;"	kind:function	line:16
+url_request	D:\Document\hello-world\Python\WebCrawler\readforum\gfan.py	/^def url_request(u, h):$/;"	kind:function	line:16
+url_request	D:\Document\hello-world\Python\WebCrawler\readforum\tieba.py	/^def url_request(u, h):$/;"	kind:function	line:16
+url_request	D:\Document\hello-world\Python\WebCrawler\youdaosentence\youdao_everydaysentence.py	/^def url_request(u, h):$/;"	kind:function	line:16
+urllib	D:\Document\hello-world\Python\WebCrawler\icibasentence\icibasentence.py	/^import urllib$/;"	kind:namespace	line:6
+urllib	D:\Document\hello-world\Python\WebCrawler\readforum\emui.py	/^import urllib$/;"	kind:namespace	line:5
+urllib	D:\Document\hello-world\Python\WebCrawler\readforum\gfan.py	/^import urllib$/;"	kind:namespace	line:5
+urllib	D:\Document\hello-world\Python\WebCrawler\readforum\tieba.py	/^import urllib$/;"	kind:namespace	line:5
+urllib	D:\Document\hello-world\Python\WebCrawler\tieba_email.py	/^import urllib$/;"	kind:namespace	line:8
+urllib	D:\Document\hello-world\Python\WebCrawler\youdaosentence\youdao_everydaysentence.py	/^import urllib$/;"	kind:namespace	line:6
+urllib	D:\Document\hello-world\Python\WebCrawler\youdaosentence\youdao_image.py	/^import urllib$/;"	kind:namespace	line:7
+urllib2	D:\Document\hello-world\Python\WebCrawler\icibasentence\icibasentence.py	/^import urllib2$/;"	kind:namespace	line:7
+urllib2	D:\Document\hello-world\Python\WebCrawler\readforum\emui.py	/^import urllib2$/;"	kind:namespace	line:6
+urllib2	D:\Document\hello-world\Python\WebCrawler\readforum\gfan.py	/^import urllib2$/;"	kind:namespace	line:6
+urllib2	D:\Document\hello-world\Python\WebCrawler\readforum\tieba.py	/^import urllib2$/;"	kind:namespace	line:6
+urllib2	D:\Document\hello-world\Python\WebCrawler\youdaosentence\youdao_everydaysentence.py	/^import urllib2$/;"	kind:namespace	line:7
+urlopen	D:\Document\hello-world\Python\PythonApp\dict_ici.py	/^    from urllib.request import urlopen$/;"	kind:namespace	line:12
+urlopen	D:\Document\hello-world\Python\PythonApp\dict_ici.py	/^    from urllib2 import urlopen$/;"	kind:namespace	line:14
+word_dict	D:\Document\hello-world\OnlineJuge\51nod\1095Anigram.py	/^word_dict = dict()$/;"	kind:variable	line:16
+word_h	D:\Document\hello-world\OnlineJuge\51nod\1095Anigram.py	/^    word_h = get_hash(word_s)$/;"	kind:variable	line:29
+word_hash	D:\Document\hello-world\OnlineJuge\51nod\1095Anigram.py	/^    word_hash = get_hash(word)$/;"	kind:variable	line:18
+word_list	D:\Document\hello-world\OnlineJuge\51nod\1095Anigram.py	/^word_list = []$/;"	kind:variable	line:10
+word_s	D:\Document\hello-world\OnlineJuge\51nod\1095Anigram.py	/^    word_s = raw_input()$/;"	kind:variable	line:28
+youdao_everydaysentence.py	D:\Document\hello-world\Python\WebCrawler\youdaosentence\youdao_everydaysentence.py	1;"	kind:file	line:1
+youdao_image.py	D:\Document\hello-world\Python\WebCrawler\youdaosentence\youdao_image.py	1;"	kind:file	line:1
