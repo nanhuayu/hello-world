@@ -19,5 +19,5 @@ class Solution(object):
             
         return ret
 
-sol=Solution()
-print sol.largestRectangleArea([1,2])
+#sol=Solution()
+#print sol.largestRectangleArea([2,1,2])
