@@ -1,0 +1,1 @@
+cl -I%OPENCV_DIR%\include *.cpp -LIBPATH %OPENCV_DIR%\x64\vc14\lib\opencv_world320.lib
