@@ -1,0 +1,39 @@
+% !Mode:: "TeX:UTF-8"
+\ifx\allfiles\undefined
+\documentclass[11pt,UTF8]{ctexbook}
+
+\def\useyap{true}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{amscd}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage{fancyhdr}
+\usepackage{epstopdf}
+
+\begin{document}
+\fi
+
+\chapter{第一次练习}
+\section{作业1}
+第一个公式
+\begin{align*}
+P(B/A)&=[P(A/B)*P(B)]/[P(A/B)*P(B)+P(A/\bar{B})*P(\bar{B})] \nonumber \\
+      &=(0.1*0.8)/[0.1*0.8+0.5*(1-0.8)] \nonumber \\
+      &=0.444.
+\end{align*} 
+第二个公式
+\begin{equation}
+\sqrt{x}=\frac{y}{x}
+\end{equation}
+
+第三个公式
+\[e^{i\pi}=\cos(\pi)+i\sin\pi=-1\]
+
+
+\date{\today}
+
+
+\ifx\allfiles\undefined
+\end{document}
+\fi
